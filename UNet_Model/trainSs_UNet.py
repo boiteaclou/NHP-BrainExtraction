@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 from model import UNet2d
 from function import predict_volumes
 from dataset import BlockDataset, VolumeDataset
